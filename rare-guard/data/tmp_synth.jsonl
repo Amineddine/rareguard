@@ -1,0 +1,600 @@
+{"timestamp": "2026-01-27T00:46:01.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T00:46:47.188503Z", "host": "host-1", "message": "nginx: 10.8.217.16 - - \"GET /health HTTP/1.1\" 200 706", "label": "normal"}
+{"timestamp": "2026-01-27T00:46:58.188503Z", "host": "host-1", "message": "Accepted publickey for carol from 10.8.60.147 port 8080 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T00:47:35.188503Z", "host": "host-1", "message": "session opened for user root by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T00:48:07.188503Z", "host": "host-1", "message": "CRON[9243]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T00:48:17.188503Z", "host": "host-1", "message": "Accepted publickey for bob from 10.0.158.166 port 80 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T00:49:14.188503Z", "host": "host-1", "message": "CRON[6680]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T00:49:59.188503Z", "host": "host-1", "message": "Accepted publickey for bob from 10.2.77.60 port 80 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T00:50:40.188503Z", "host": "host-1", "message": "Accepted publickey for alice from 10.7.200.102 port 80 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T00:50:59.188503Z", "host": "host-1", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-27T00:51:22.188503Z", "host": "host-1", "message": "nginx: 10.7.238.123 - - \"GET /health HTTP/1.1\" 200 3006", "label": "normal"}
+{"timestamp": "2026-01-27T00:51:34.188503Z", "host": "host-1", "message": "nginx: 10.8.152.251 - - \"GET /health HTTP/1.1\" 200 1568", "label": "normal"}
+{"timestamp": "2026-01-27T00:52:31.188503Z", "host": "host-1", "message": "session opened for user dave by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T00:53:13.188503Z", "host": "host-1", "message": "CRON[131]: (root) CMD (apt update)", "label": "normal"}
+{"timestamp": "2026-01-27T00:53:41.188503Z", "host": "host-1", "message": "session opened for user mallory by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T00:54:22.188503Z", "host": "host-1", "message": "CRON[3557]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T00:54:58.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T00:55:52.188503Z", "host": "host-1", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T00:56:26.188503Z", "host": "host-1", "message": "CRON[7932]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T00:57:21.188503Z", "host": "host-1", "message": "CRON[5060]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T00:57:31.188503Z", "host": "host-1", "message": "nginx: 10.6.249.42 - - \"GET /health HTTP/1.1\" 200 2978", "label": "normal"}
+{"timestamp": "2026-01-27T00:58:07.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1940.", "label": "normal"}
+{"timestamp": "2026-01-27T00:58:30.188503Z", "host": "host-1", "message": "session opened for user carol by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T00:58:42.188503Z", "host": "host-1", "message": "session closed for user dave", "label": "normal"}
+{"timestamp": "2026-01-27T00:59:35.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1688.", "label": "normal"}
+{"timestamp": "2026-01-27T01:00:06.188503Z", "host": "host-1", "message": "session opened for user dave by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:00:59.188503Z", "host": "host-1", "message": "sshd[1007]: Received disconnect from 10.0.66.4: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:01:25.188503Z", "host": "host-1", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:02:01.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1147.", "label": "normal"}
+{"timestamp": "2026-01-27T01:02:10.188503Z", "host": "host-1", "message": "sudo: carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=python3 job.py", "label": "normal"}
+{"timestamp": "2026-01-27T01:02:45.188503Z", "host": "host-1", "message": "session opened for user mallory by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:02:53.188503Z", "host": "host-1", "message": "sudo: root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=python3 job.py", "label": "normal"}
+{"timestamp": "2026-01-27T01:03:39.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1497.", "label": "normal"}
+{"timestamp": "2026-01-27T01:04:02.188503Z", "host": "host-1", "message": "sshd[7619]: Received disconnect from 10.8.102.80: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:04:08.188503Z", "host": "host-1", "message": "sshd[6083]: Received disconnect from 10.5.67.155: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:04:23.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1332.", "label": "normal"}
+{"timestamp": "2026-01-27T01:04:31.188503Z", "host": "host-1", "message": "sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=backup.sh", "label": "normal"}
+{"timestamp": "2026-01-27T01:04:44.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:05:14.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1494.", "label": "normal"}
+{"timestamp": "2026-01-27T01:05:24.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:06:04.188503Z", "host": "host-1", "message": "session closed for user dave", "label": "normal"}
+{"timestamp": "2026-01-27T01:07:01.188503Z", "host": "host-1", "message": "nginx: 10.6.228.111 - - \"GET /health HTTP/1.1\" 200 4077", "label": "normal"}
+{"timestamp": "2026-01-27T01:07:23.188503Z", "host": "host-1", "message": "sshd[1492]: Received disconnect from 10.3.79.39: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:08:11.188503Z", "host": "host-1", "message": "CRON[3763]: (root) CMD (apt update)", "label": "normal"}
+{"timestamp": "2026-01-27T01:08:25.188503Z", "host": "host-1", "message": "session closed for user dave", "label": "normal"}
+{"timestamp": "2026-01-27T01:08:44.188503Z", "host": "host-1", "message": "Accepted publickey for mallory from 10.6.185.175 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T01:09:20.188503Z", "host": "host-1", "message": "session closed for user eve", "label": "normal"}
+{"timestamp": "2026-01-27T01:09:41.188503Z", "host": "host-1", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-27T01:10:12.188503Z", "host": "host-1", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:10:53.188503Z", "host": "host-1", "message": "session closed for user mallory", "label": "normal"}
+{"timestamp": "2026-01-27T01:11:42.188503Z", "host": "host-1", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:12:28.188503Z", "host": "host-1", "message": "Accepted publickey for bob from 10.7.238.245 port 80 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T01:13:02.188503Z", "host": "host-1", "message": "nginx: 10.9.40.132 - - \"GET /health HTTP/1.1\" 200 730", "label": "normal"}
+{"timestamp": "2026-01-27T01:13:32.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:13:43.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:13:51.188503Z", "host": "host-1", "message": "CRON[3886]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T01:14:24.188503Z", "host": "host-1", "message": "sshd[203]: Received disconnect from 10.1.190.132: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:15:07.188503Z", "host": "host-1", "message": "Accepted publickey for alice from 10.9.104.209 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T01:15:48.188503Z", "host": "host-1", "message": "session opened for user admin by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:16:16.188503Z", "host": "host-1", "message": "session opened for user admin by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:17:16.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:17:30.188503Z", "host": "host-1", "message": "sshd[8009]: Received disconnect from 10.6.251.193: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:18:13.188503Z", "host": "host-1", "message": "session opened for user carol by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:18:25.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1457.", "label": "normal"}
+{"timestamp": "2026-01-27T01:19:00.188503Z", "host": "host-1", "message": "session opened for user root by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:19:14.188503Z", "host": "host-1", "message": "sshd[8158]: Received disconnect from 10.10.69.7: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:20:06.188503Z", "host": "host-1", "message": "session closed for user carol", "label": "normal"}
+{"timestamp": "2026-01-27T01:20:44.188503Z", "host": "host-1", "message": "nginx: 10.4.58.197 - - \"GET /health HTTP/1.1\" 200 4471", "label": "normal"}
+{"timestamp": "2026-01-27T01:21:12.188503Z", "host": "host-1", "message": "nginx: 10.5.169.196 - - \"GET /health HTTP/1.1\" 200 4427", "label": "normal"}
+{"timestamp": "2026-01-27T01:21:18.188503Z", "host": "host-1", "message": "sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T01:22:04.188503Z", "host": "host-1", "message": "sudo: eve : TTY=pts/0 ; PWD=/home/eve ; USER=root ; COMMAND=apt upgrade -y", "label": "normal"}
+{"timestamp": "2026-01-27T01:22:42.188503Z", "host": "host-1", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-27T01:23:09.188503Z", "host": "host-1", "message": "nginx: 10.1.6.157 - - \"GET /health HTTP/1.1\" 200 4352", "label": "normal"}
+{"timestamp": "2026-01-27T01:23:48.188503Z", "host": "host-1", "message": "sshd[2973]: Received disconnect from 10.6.223.191: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:24:33.188503Z", "host": "host-1", "message": "CRON[349]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T01:25:29.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:26:21.188503Z", "host": "host-1", "message": "CRON[570]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T01:26:59.188503Z", "host": "host-1", "message": "Accepted publickey for bob from 10.6.54.64 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T01:27:05.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1732.", "label": "normal"}
+{"timestamp": "2026-01-27T01:27:26.188503Z", "host": "host-1", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:27:53.188503Z", "host": "host-1", "message": "sshd[8540]: Received disconnect from 10.1.251.178: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:28:21.188503Z", "host": "host-1", "message": "session opened for user bob by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:28:40.188503Z", "host": "host-1", "message": "sshd[655]: Received disconnect from 10.6.119.242: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:28:58.188503Z", "host": "host-1", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:29:56.188503Z", "host": "host-1", "message": "sudo: mallory : user NOT in sudoers ; TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/bin/bash", "label": "attack"}
+{"timestamp": "2026-01-27T01:30:52.188503Z", "host": "host-1", "message": "session opened for user bob by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:31:21.188503Z", "host": "host-1", "message": "CRON[2135]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T01:31:56.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:32:51.188503Z", "host": "host-1", "message": "session opened for user dave by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:33:47.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:34:21.188503Z", "host": "host-1", "message": "session opened for user admin by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:35:12.188503Z", "host": "host-1", "message": "session closed for user carol", "label": "normal"}
+{"timestamp": "2026-01-27T01:35:18.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1058.", "label": "normal"}
+{"timestamp": "2026-01-27T01:36:14.188503Z", "host": "host-1", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:37:11.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1429.", "label": "normal"}
+{"timestamp": "2026-01-27T01:37:58.188503Z", "host": "host-1", "message": "session closed for user root", "label": "normal"}
+{"timestamp": "2026-01-27T01:38:38.188503Z", "host": "host-1", "message": "Accepted publickey for mallory from 10.10.14.6 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T01:38:43.188503Z", "host": "host-1", "message": "session opened for user mallory by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:39:21.188503Z", "host": "host-1", "message": "session closed for user eve", "label": "normal"}
+{"timestamp": "2026-01-27T01:39:53.188503Z", "host": "host-1", "message": "CRON[8305]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T01:40:50.188503Z", "host": "host-1", "message": "Accepted publickey for carol from 10.1.92.223 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T01:41:11.188503Z", "host": "host-1", "message": "nginx: 10.9.27.128 - - \"GET /health HTTP/1.1\" 200 3514", "label": "normal"}
+{"timestamp": "2026-01-27T01:41:31.188503Z", "host": "host-1", "message": "sshd[252]: Received disconnect from 10.1.241.55: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:41:52.188503Z", "host": "host-1", "message": "session closed for user dave", "label": "normal"}
+{"timestamp": "2026-01-27T01:42:00.188503Z", "host": "host-1", "message": "sshd[1079]: Received disconnect from 10.6.159.80: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:42:34.188503Z", "host": "host-1", "message": "nginx: 10.10.213.123 - - \"GET /health HTTP/1.1\" 200 2595", "label": "normal"}
+{"timestamp": "2026-01-27T01:43:05.188503Z", "host": "host-1", "message": "nginx: 10.6.192.155 - - \"GET /health HTTP/1.1\" 200 2395", "label": "normal"}
+{"timestamp": "2026-01-27T01:43:18.188503Z", "host": "host-1", "message": "nginx: 10.5.43.139 - - \"GET /health HTTP/1.1\" 200 2117", "label": "normal"}
+{"timestamp": "2026-01-27T01:43:55.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1533.", "label": "normal"}
+{"timestamp": "2026-01-27T01:44:49.188503Z", "host": "host-1", "message": "Accepted publickey for carol from 10.4.185.148 port 8080 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T01:45:43.188503Z", "host": "host-1", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-27T01:45:57.188503Z", "host": "host-1", "message": "session opened for user carol by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:46:37.188503Z", "host": "host-1", "message": "nginx: 10.4.163.145 - - \"GET /health HTTP/1.1\" 200 3872", "label": "normal"}
+{"timestamp": "2026-01-27T01:47:15.188503Z", "host": "host-1", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:47:55.188503Z", "host": "host-1", "message": "CRON[2861]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T01:48:17.188503Z", "host": "host-1", "message": "session opened for user mallory by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:48:54.188503Z", "host": "host-1", "message": "Accepted publickey for alice from 10.2.231.142 port 2222 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T01:49:47.188503Z", "host": "host-1", "message": "session opened for user root by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:50:20.188503Z", "host": "host-1", "message": "nginx: 10.3.121.25 - - \"GET /health HTTP/1.1\" 200 2604", "label": "normal"}
+{"timestamp": "2026-01-27T01:51:03.188503Z", "host": "host-1", "message": "sudo: eve : TTY=pts/0 ; PWD=/home/eve ; USER=root ; COMMAND=apt upgrade -y", "label": "normal"}
+{"timestamp": "2026-01-27T01:51:36.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1010.", "label": "normal"}
+{"timestamp": "2026-01-27T01:52:13.188503Z", "host": "host-1", "message": "nginx: 10.6.244.35 - - \"GET /health HTTP/1.1\" 200 3207", "label": "normal"}
+{"timestamp": "2026-01-27T01:52:34.188503Z", "host": "host-1", "message": "CRON[8206]: (root) CMD (apt update)", "label": "normal"}
+{"timestamp": "2026-01-27T01:53:32.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:53:44.188503Z", "host": "host-1", "message": "sshd[2091]: Received disconnect from 10.1.238.127: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:53:53.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:54:02.188503Z", "host": "host-1", "message": "sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T01:54:57.188503Z", "host": "host-1", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-27T01:55:47.188503Z", "host": "host-1", "message": "sshd[9770]: Received disconnect from 10.5.85.31: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:56:01.188503Z", "host": "host-1", "message": "session closed for user bob", "label": "normal"}
+{"timestamp": "2026-01-27T01:56:35.188503Z", "host": "host-1", "message": "session opened for user dave by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:57:05.188503Z", "host": "host-1", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-27T01:57:52.188503Z", "host": "host-1", "message": "session closed for user dave", "label": "normal"}
+{"timestamp": "2026-01-27T01:58:42.188503Z", "host": "host-1", "message": "nginx: 10.6.143.224 - - \"GET /health HTTP/1.1\" 200 3088", "label": "normal"}
+{"timestamp": "2026-01-27T01:59:12.188503Z", "host": "host-1", "message": "CRON[6276]: (root) CMD (apt update)", "label": "normal"}
+{"timestamp": "2026-01-27T01:59:39.188503Z", "host": "host-1", "message": "sshd[5218]: Received disconnect from 10.0.131.145: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:59:45.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1410.", "label": "normal"}
+{"timestamp": "2026-01-27T02:00:18.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:00:44.188503Z", "host": "host-1", "message": "sudo: dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T02:01:21.188503Z", "host": "host-1", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:02:16.188503Z", "host": "host-1", "message": "session opened for user bob by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:02:26.188503Z", "host": "host-1", "message": "Accepted publickey for eve from 10.10.50.220 port 2222 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:03:20.188503Z", "host": "host-1", "message": "session closed for user dave", "label": "normal"}
+{"timestamp": "2026-01-27T02:04:17.188503Z", "host": "host-1", "message": "sudo: eve : TTY=pts/0 ; PWD=/home/eve ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T02:04:47.188503Z", "host": "host-1", "message": "nginx: 10.10.33.247 - - \"GET /health HTTP/1.1\" 200 3373", "label": "normal"}
+{"timestamp": "2026-01-27T02:05:28.188503Z", "host": "host-1", "message": "sshd[9027]: Received disconnect from 10.5.79.62: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T02:05:38.188503Z", "host": "host-1", "message": "session closed for user admin", "label": "normal"}
+{"timestamp": "2026-01-27T02:06:10.188503Z", "host": "host-1", "message": "sudo: bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=python3 job.py", "label": "normal"}
+{"timestamp": "2026-01-27T02:06:16.188503Z", "host": "host-1", "message": "sudo: mallory : TTY=pts/0 ; PWD=/home/mallory ; USER=root ; COMMAND=backup.sh", "label": "normal"}
+{"timestamp": "2026-01-27T02:06:26.188503Z", "host": "host-1", "message": "CRON[4170]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T02:06:35.188503Z", "host": "host-1", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:07:09.188503Z", "host": "host-1", "message": "nginx: 10.0.57.214 - - \"GET /health HTTP/1.1\" 200 587", "label": "normal"}
+{"timestamp": "2026-01-27T02:07:40.188503Z", "host": "host-1", "message": "sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T02:08:24.188503Z", "host": "host-1", "message": "nginx: 10.0.133.45 - - \"GET /health HTTP/1.1\" 200 2245", "label": "normal"}
+{"timestamp": "2026-01-27T02:09:14.188503Z", "host": "host-1", "message": "session opened for user eve by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:09:29.188503Z", "host": "host-1", "message": "session closed for user bob", "label": "normal"}
+{"timestamp": "2026-01-27T02:09:46.188503Z", "host": "host-1", "message": "sudo: eve : TTY=pts/0 ; PWD=/home/eve ; USER=root ; COMMAND=python3 job.py", "label": "normal"}
+{"timestamp": "2026-01-27T02:10:24.188503Z", "host": "host-1", "message": "sudo: root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T02:10:57.188503Z", "host": "host-1", "message": "session closed for user dave", "label": "normal"}
+{"timestamp": "2026-01-27T02:11:19.188503Z", "host": "host-1", "message": "Accepted publickey for mallory from 10.5.117.95 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:11:40.188503Z", "host": "host-1", "message": "Accepted publickey for carol from 10.4.41.37 port 80 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:12:31.188503Z", "host": "host-1", "message": "CRON[5648]: (root) CMD (apt update)", "label": "normal"}
+{"timestamp": "2026-01-27T02:13:08.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1994.", "label": "normal"}
+{"timestamp": "2026-01-27T02:13:19.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:14:06.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:14:43.188503Z", "host": "host-1", "message": "CRON[1772]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T02:15:02.188503Z", "host": "host-1", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-27T02:15:32.188503Z", "host": "host-1", "message": "Accepted publickey for mallory from 10.5.5.212 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:16:30.188503Z", "host": "host-1", "message": "session opened for user bob by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:17:15.188503Z", "host": "host-1", "message": "sudo: carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T02:17:47.188503Z", "host": "host-1", "message": "session opened for user root by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:18:34.188503Z", "host": "host-1", "message": "nginx: 10.3.86.210 - - \"GET /health HTTP/1.1\" 200 3097", "label": "normal"}
+{"timestamp": "2026-01-27T02:19:21.188503Z", "host": "host-1", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T02:19:41.188503Z", "host": "host-1", "message": "Accepted publickey for bob from 10.5.144.204 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:20:15.188503Z", "host": "host-1", "message": "sudo: mallory : TTY=pts/0 ; PWD=/home/mallory ; USER=root ; COMMAND=python3 job.py", "label": "normal"}
+{"timestamp": "2026-01-27T02:20:48.188503Z", "host": "host-1", "message": "sudo: eve : user NOT in sudoers ; TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/bin/bash", "label": "attack"}
+{"timestamp": "2026-01-27T02:21:14.188503Z", "host": "host-1", "message": "nginx: 10.7.163.231 - - \"GET /health HTTP/1.1\" 200 1548", "label": "normal"}
+{"timestamp": "2026-01-27T02:21:39.188503Z", "host": "host-1", "message": "sudo: eve : TTY=pts/0 ; PWD=/home/eve ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T02:21:57.188503Z", "host": "host-1", "message": "Accepted publickey for mallory from 10.0.108.83 port 80 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:22:23.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1669.", "label": "normal"}
+{"timestamp": "2026-01-27T02:22:45.188503Z", "host": "host-1", "message": "CRON[9741]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T02:23:05.188503Z", "host": "host-1", "message": "Accepted publickey for root from 10.8.142.93 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:23:15.188503Z", "host": "host-1", "message": "session opened for user carol by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:23:29.188503Z", "host": "host-1", "message": "Accepted publickey for dave from 10.10.176.231 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:23:59.188503Z", "host": "host-1", "message": "sudo: dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=python3 job.py", "label": "normal"}
+{"timestamp": "2026-01-27T02:24:44.188503Z", "host": "host-1", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T02:25:22.188503Z", "host": "host-1", "message": "session closed for user carol", "label": "normal"}
+{"timestamp": "2026-01-27T02:26:09.188503Z", "host": "host-1", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T02:26:38.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1183.", "label": "normal"}
+{"timestamp": "2026-01-27T02:26:52.188503Z", "host": "host-1", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T02:27:38.188503Z", "host": "host-1", "message": "nginx: 10.10.232.140 - - \"GET /health HTTP/1.1\" 200 3656", "label": "normal"}
+{"timestamp": "2026-01-27T02:28:23.188503Z", "host": "host-1", "message": "nginx: 10.3.130.178 - - \"GET /health HTTP/1.1\" 200 1151", "label": "normal"}
+{"timestamp": "2026-01-27T02:28:36.188503Z", "host": "host-1", "message": "nginx: 10.7.240.131 - - \"GET /health HTTP/1.1\" 200 725", "label": "normal"}
+{"timestamp": "2026-01-27T02:29:17.188503Z", "host": "host-1", "message": "Accepted publickey for mallory from 10.8.244.147 port 8080 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:30:14.188503Z", "host": "host-1", "message": "CRON[4220]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T02:30:24.188503Z", "host": "host-1", "message": "session closed for user root", "label": "normal"}
+{"timestamp": "2026-01-27T02:31:09.188503Z", "host": "host-1", "message": "session opened for user dave by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:31:38.188503Z", "host": "host-1", "message": "nginx: 10.6.148.159 - - \"GET /health HTTP/1.1\" 200 542", "label": "normal"}
+{"timestamp": "2026-01-27T02:31:46.188503Z", "host": "host-1", "message": "nginx: 10.9.98.251 - - \"GET /health HTTP/1.1\" 200 779", "label": "normal"}
+{"timestamp": "2026-01-27T02:32:34.188503Z", "host": "host-1", "message": "sudo: root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=apt upgrade -y", "label": "normal"}
+{"timestamp": "2026-01-27T02:32:39.188503Z", "host": "host-1", "message": "session opened for user mallory by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:33:31.188503Z", "host": "host-1", "message": "nginx: 10.7.28.141 - - \"GET /health HTTP/1.1\" 200 2938", "label": "normal"}
+{"timestamp": "2026-01-27T02:33:41.188503Z", "host": "host-1", "message": "session opened for user eve by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:34:33.188503Z", "host": "host-1", "message": "sudo: mallory : TTY=pts/0 ; PWD=/home/mallory ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T02:35:29.188503Z", "host": "host-1", "message": "sudo: dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T02:35:49.188503Z", "host": "host-1", "message": "CRON[4931]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T02:36:08.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1158.", "label": "normal"}
+{"timestamp": "2026-01-27T02:36:44.188503Z", "host": "host-1", "message": "session opened for user carol by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:37:19.188503Z", "host": "host-1", "message": "sudo: carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T02:38:13.188503Z", "host": "host-1", "message": "CRON[7807]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T02:38:22.188503Z", "host": "host-1", "message": "sshd[5499]: Received disconnect from 10.0.88.86: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T02:38:43.188503Z", "host": "host-1", "message": "sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T02:39:27.188503Z", "host": "host-1", "message": "Accepted publickey for root from 10.4.76.67 port 2222 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:40:02.188503Z", "host": "host-1", "message": "sudo: eve : TTY=pts/0 ; PWD=/home/eve ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T02:40:50.188503Z", "host": "host-1", "message": "CRON[606]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T02:41:38.188503Z", "host": "host-1", "message": "nginx: 10.3.37.154 - - \"GET /health HTTP/1.1\" 200 2687", "label": "normal"}
+{"timestamp": "2026-01-27T02:42:01.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1208.", "label": "normal"}
+{"timestamp": "2026-01-27T02:42:55.188503Z", "host": "host-1", "message": "nginx: 10.1.32.51 - - \"GET /health HTTP/1.1\" 200 3060", "label": "normal"}
+{"timestamp": "2026-01-27T02:43:12.188503Z", "host": "host-1", "message": "session opened for user root by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:43:47.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1970.", "label": "normal"}
+{"timestamp": "2026-01-27T02:43:56.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1558.", "label": "normal"}
+{"timestamp": "2026-01-27T02:44:18.188503Z", "host": "host-1", "message": "CRON[780]: (root) CMD (python3 job.py)", "label": "normal"}
+{"timestamp": "2026-01-27T02:44:27.188503Z", "host": "host-1", "message": "session closed for user admin", "label": "normal"}
+{"timestamp": "2026-01-27T02:45:19.188503Z", "host": "host-1", "message": "sshd[5525]: Received disconnect from 10.8.192.35: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T02:45:32.188503Z", "host": "host-1", "message": "nginx: 10.0.60.143 - - \"GET /health HTTP/1.1\" 200 3959", "label": "normal"}
+{"timestamp": "2026-01-27T02:45:54.188503Z", "host": "host-1", "message": "sshd[4870]: Received disconnect from 10.6.88.192: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T02:46:13.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1355.", "label": "normal"}
+{"timestamp": "2026-01-27T02:46:43.188503Z", "host": "host-1", "message": "Accepted publickey for eve from 10.6.184.247 port 80 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:47:19.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:47:43.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:48:10.188503Z", "host": "host-1", "message": "session opened for user bob by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:49:08.188503Z", "host": "host-1", "message": "sshd[1180]: Received disconnect from 10.8.211.172: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T02:50:01.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:50:13.188503Z", "host": "host-1", "message": "CRON[8574]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T02:51:03.188503Z", "host": "host-1", "message": "sudo: alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=backup.sh", "label": "normal"}
+{"timestamp": "2026-01-27T02:51:24.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:51:53.188503Z", "host": "host-1", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T02:52:02.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:52:55.188503Z", "host": "host-1", "message": "Accepted publickey for eve from 10.8.181.161 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:53:17.188503Z", "host": "host-1", "message": "sudo: carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T02:54:02.188503Z", "host": "host-1", "message": "CRON[2292]: (root) CMD (apt update)", "label": "normal"}
+{"timestamp": "2026-01-27T02:54:24.188503Z", "host": "host-1", "message": "sshd[7665]: Received disconnect from 10.9.36.220: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T02:54:41.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:54:47.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:55:27.188503Z", "host": "host-1", "message": "session opened for user admin by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:55:35.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:56:08.188503Z", "host": "host-1", "message": "session closed for user eve", "label": "normal"}
+{"timestamp": "2026-01-27T02:56:54.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1316.", "label": "normal"}
+{"timestamp": "2026-01-27T02:57:02.188503Z", "host": "host-1", "message": "nginx: 10.10.109.134 - - \"GET /health HTTP/1.1\" 200 1927", "label": "normal"}
+{"timestamp": "2026-01-27T02:57:15.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:57:41.188503Z", "host": "host-1", "message": "sudo: dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T02:58:33.188503Z", "host": "host-1", "message": "sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T02:59:03.188503Z", "host": "host-1", "message": "sudo: alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=python3 job.py", "label": "normal"}
+{"timestamp": "2026-01-27T02:59:38.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:59:50.188503Z", "host": "host-1", "message": "session closed for user root", "label": "normal"}
+{"timestamp": "2026-01-27T02:59:59.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1639.", "label": "normal"}
+{"timestamp": "2026-01-27T03:00:39.188503Z", "host": "host-1", "message": "sshd[9432]: Received disconnect from 10.7.49.215: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T03:01:32.188503Z", "host": "host-1", "message": "session closed for user carol", "label": "normal"}
+{"timestamp": "2026-01-27T03:02:12.188503Z", "host": "host-1", "message": "session opened for user admin by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T03:02:28.188503Z", "host": "host-1", "message": "session opened for user bob by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T03:02:53.188503Z", "host": "host-1", "message": "sudo: root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T03:03:49.188503Z", "host": "host-1", "message": "Accepted publickey for carol from 10.8.161.55 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T03:04:41.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T03:05:12.188503Z", "host": "host-1", "message": "CRON[356]: (root) CMD (apt update)", "label": "normal"}
+{"timestamp": "2026-01-27T03:05:41.188503Z", "host": "host-1", "message": "Accepted publickey for eve from 10.5.102.241 port 2222 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T03:06:17.188503Z", "host": "host-1", "message": "sshd[620]: Received disconnect from 10.3.158.201: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T03:06:30.188503Z", "host": "host-1", "message": "nginx: 10.9.232.122 - - \"GET /health HTTP/1.1\" 200 1187", "label": "normal"}
+{"timestamp": "2026-01-27T03:07:15.188503Z", "host": "host-1", "message": "CRON[4248]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T03:07:25.188503Z", "host": "host-1", "message": "CRON[8773]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T03:07:54.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1421.", "label": "normal"}
+{"timestamp": "2026-01-27T03:08:26.188503Z", "host": "host-1", "message": "Accepted publickey for root from 10.7.174.174 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T03:08:39.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1036.", "label": "normal"}
+{"timestamp": "2026-01-27T03:09:21.188503Z", "host": "host-1", "message": "session opened for user mallory by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T03:09:51.188503Z", "host": "host-1", "message": "nginx: 10.2.33.154 - - \"GET /health HTTP/1.1\" 200 3577", "label": "normal"}
+{"timestamp": "2026-01-27T03:10:50.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1024.", "label": "normal"}
+{"timestamp": "2026-01-27T03:11:10.188503Z", "host": "host-1", "message": "CRON[1475]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T03:11:24.188503Z", "host": "host-1", "message": "session opened for user root by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T03:12:21.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1578.", "label": "normal"}
+{"timestamp": "2026-01-27T03:12:31.188503Z", "host": "host-1", "message": "Accepted publickey for eve from 10.8.216.134 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T03:12:36.188503Z", "host": "host-1", "message": "CRON[5173]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T03:13:17.188503Z", "host": "host-1", "message": "sudo: dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T03:13:30.188503Z", "host": "host-1", "message": "nginx: 10.6.247.18 - - \"GET /health HTTP/1.1\" 200 3627", "label": "normal"}
+{"timestamp": "2026-01-27T03:14:15.188503Z", "host": "host-1", "message": "session opened for user eve by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T03:14:26.188503Z", "host": "host-1", "message": "nginx: 10.10.69.136 - - \"GET /health HTTP/1.1\" 200 3528", "label": "normal"}
+{"timestamp": "2026-01-27T03:15:08.188503Z", "host": "host-1", "message": "sudo: dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=python3 job.py", "label": "normal"}
+{"timestamp": "2026-01-27T03:15:27.188503Z", "host": "host-1", "message": "Accepted publickey for mallory from 10.3.14.66 port 2222 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T03:15:32.188503Z", "host": "host-1", "message": "systemd: Stopped User Manager for UID 1972.", "label": "normal"}
+{"timestamp": "2026-01-27T03:15:54.188503Z", "host": "host-1", "message": "CRON[2908]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T03:16:29.188503Z", "host": "host-1", "message": "nginx: 10.10.28.89 - - \"GET /health HTTP/1.1\" 200 593", "label": "normal"}
+{"timestamp": "2026-01-27T03:16:49.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T03:17:39.188503Z", "host": "host-1", "message": "Accepted publickey for root from 10.6.158.164 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T03:17:45.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T03:17:55.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T03:18:23.188503Z", "host": "host-1", "message": "Accepted publickey for alice from 10.10.73.155 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T03:19:12.188503Z", "host": "host-1", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T03:19:40.188503Z", "host": "host-1", "message": "CRON[2974]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T03:19:45.188503Z", "host": "host-1", "message": "nginx: 10.7.44.223 - - \"GET /health HTTP/1.1\" 200 1973", "label": "normal"}
+{"timestamp": "2026-01-27T03:19:54.188503Z", "host": "host-1", "message": "CRON[7399]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T03:20:18.188503Z", "host": "host-1", "message": "CRON[8439]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T03:20:37.188503Z", "host": "host-1", "message": "sudo: mallory : TTY=pts/0 ; PWD=/home/mallory ; USER=root ; COMMAND=python3 job.py", "label": "normal"}
+{"timestamp": "2026-01-27T00:46:29.188503Z", "host": "host-2", "message": "session opened for user carol by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T00:47:13.188503Z", "host": "host-2", "message": "session closed for user mallory", "label": "normal"}
+{"timestamp": "2026-01-27T00:47:32.188503Z", "host": "host-2", "message": "Accepted publickey for mallory from 10.6.34.93 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T00:48:15.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T00:48:23.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T00:48:37.188503Z", "host": "host-2", "message": "Accepted publickey for carol from 10.1.92.51 port 2222 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T00:48:53.188503Z", "host": "host-2", "message": "sshd[7399]: Received disconnect from 10.2.92.229: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T00:49:44.188503Z", "host": "host-2", "message": "session opened for user carol by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T00:49:59.188503Z", "host": "host-2", "message": "session closed for user carol", "label": "normal"}
+{"timestamp": "2026-01-27T00:50:45.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1519.", "label": "normal"}
+{"timestamp": "2026-01-27T00:50:52.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T00:51:50.188503Z", "host": "host-2", "message": "sshd[859]: Received disconnect from 10.7.162.103: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T00:52:23.188503Z", "host": "host-2", "message": "Accepted publickey for alice from 10.7.244.7 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T00:52:33.188503Z", "host": "host-2", "message": "sshd[4199]: Received disconnect from 10.5.84.42: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T00:53:04.188503Z", "host": "host-2", "message": "session opened for user admin by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T00:53:44.188503Z", "host": "host-2", "message": "CRON[8250]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T00:54:13.188503Z", "host": "host-2", "message": "sudo: eve : TTY=pts/0 ; PWD=/home/eve ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T00:55:10.188503Z", "host": "host-2", "message": "session opened for user carol by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T00:55:18.188503Z", "host": "host-2", "message": "CRON[7088]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T00:55:46.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1691.", "label": "normal"}
+{"timestamp": "2026-01-27T00:56:03.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1669.", "label": "normal"}
+{"timestamp": "2026-01-27T00:56:09.188503Z", "host": "host-2", "message": "CRON[2722]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T00:57:05.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T00:57:12.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1084.", "label": "normal"}
+{"timestamp": "2026-01-27T00:57:21.188503Z", "host": "host-2", "message": "Accepted publickey for carol from 10.2.156.111 port 8080 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T00:57:42.188503Z", "host": "host-2", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T00:58:25.188503Z", "host": "host-2", "message": "sudo: dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=apt upgrade -y", "label": "normal"}
+{"timestamp": "2026-01-27T00:58:51.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T00:58:58.188503Z", "host": "host-2", "message": "sshd[2181]: Received disconnect from 10.9.242.33: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T00:59:20.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:00:16.188503Z", "host": "host-2", "message": "session opened for user eve by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:00:22.188503Z", "host": "host-2", "message": "session opened for user dave by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:00:57.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1487.", "label": "normal"}
+{"timestamp": "2026-01-27T01:01:51.188503Z", "host": "host-2", "message": "sudo: mallory : TTY=pts/0 ; PWD=/home/mallory ; USER=root ; COMMAND=backup.sh", "label": "normal"}
+{"timestamp": "2026-01-27T01:02:23.188503Z", "host": "host-2", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-27T01:02:59.188503Z", "host": "host-2", "message": "sudo: mallory : TTY=pts/0 ; PWD=/home/mallory ; USER=root ; COMMAND=python3 job.py", "label": "normal"}
+{"timestamp": "2026-01-27T01:03:56.188503Z", "host": "host-2", "message": "session closed for user carol", "label": "normal"}
+{"timestamp": "2026-01-27T01:04:39.188503Z", "host": "host-2", "message": "sshd[3144]: Received disconnect from 10.8.203.153: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:05:13.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:05:23.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:06:16.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:06:25.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1188.", "label": "normal"}
+{"timestamp": "2026-01-27T01:07:05.188503Z", "host": "host-2", "message": "session closed for user carol", "label": "normal"}
+{"timestamp": "2026-01-27T01:07:37.188503Z", "host": "host-2", "message": "session opened for user mallory by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:07:58.188503Z", "host": "host-2", "message": "CRON[1054]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T01:08:09.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1718.", "label": "normal"}
+{"timestamp": "2026-01-27T01:08:25.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:08:59.188503Z", "host": "host-2", "message": "CRON[482]: (root) CMD (python3 job.py)", "label": "normal"}
+{"timestamp": "2026-01-27T01:09:51.188503Z", "host": "host-2", "message": "session opened for user mallory by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:10:45.188503Z", "host": "host-2", "message": "sudo: eve : TTY=pts/0 ; PWD=/home/eve ; USER=root ; COMMAND=python3 job.py", "label": "normal"}
+{"timestamp": "2026-01-27T01:11:07.188503Z", "host": "host-2", "message": "sshd[1656]: Received disconnect from 10.4.126.35: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:11:28.188503Z", "host": "host-2", "message": "CRON[2624]: (root) CMD (python3 job.py)", "label": "normal"}
+{"timestamp": "2026-01-27T01:12:01.188503Z", "host": "host-2", "message": "CRON[3667]: (root) CMD (apt update)", "label": "normal"}
+{"timestamp": "2026-01-27T01:12:21.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:12:38.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:12:59.188503Z", "host": "host-2", "message": "nginx: 10.8.222.56 - - \"GET /health HTTP/1.1\" 200 3040", "label": "normal"}
+{"timestamp": "2026-01-27T01:13:37.188503Z", "host": "host-2", "message": "session opened for user bob by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:14:23.188503Z", "host": "host-2", "message": "Accepted publickey for mallory from 10.3.211.30 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T01:14:34.188503Z", "host": "host-2", "message": "sshd[9682]: error: maximum authentication attempts exceeded for invalid user admin from 10.3.159.107 port 80 ssh2", "label": "attack"}
+{"timestamp": "2026-01-27T01:15:32.188503Z", "host": "host-2", "message": "sshd[7159]: Received disconnect from 10.7.125.143: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:15:39.188503Z", "host": "host-2", "message": "CRON[7335]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T01:15:51.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:16:48.188503Z", "host": "host-2", "message": "session opened for user root by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:17:16.188503Z", "host": "host-2", "message": "session closed for user root", "label": "normal"}
+{"timestamp": "2026-01-27T01:17:49.188503Z", "host": "host-2", "message": "Accepted publickey for alice from 10.6.41.9 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T01:18:00.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:18:27.188503Z", "host": "host-2", "message": "sshd[1056]: Received disconnect from 10.5.24.145: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:18:53.188503Z", "host": "host-2", "message": "CRON[4602]: (root) CMD (apt update)", "label": "normal"}
+{"timestamp": "2026-01-27T01:19:14.188503Z", "host": "host-2", "message": "CRON[4049]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T01:20:11.188503Z", "host": "host-2", "message": "sshd[2950]: Received disconnect from 10.5.132.177: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:20:42.188503Z", "host": "host-2", "message": "session closed for user admin", "label": "normal"}
+{"timestamp": "2026-01-27T01:21:26.188503Z", "host": "host-2", "message": "CRON[7887]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T01:21:33.188503Z", "host": "host-2", "message": "nginx: 10.7.172.222 - - \"GET /health HTTP/1.1\" 200 2895", "label": "normal"}
+{"timestamp": "2026-01-27T01:22:08.188503Z", "host": "host-2", "message": "session opened for user dave by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:23:03.188503Z", "host": "host-2", "message": "nginx: 10.3.229.74 - - \"GET /health HTTP/1.1\" 200 1220", "label": "normal"}
+{"timestamp": "2026-01-27T01:23:17.188503Z", "host": "host-2", "message": "session opened for user mallory by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:24:03.188503Z", "host": "host-2", "message": "sudo: eve : TTY=pts/0 ; PWD=/home/eve ; USER=root ; COMMAND=backup.sh", "label": "normal"}
+{"timestamp": "2026-01-27T01:24:34.188503Z", "host": "host-2", "message": "sudo: dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=apt upgrade -y", "label": "normal"}
+{"timestamp": "2026-01-27T01:25:05.188503Z", "host": "host-2", "message": "sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=backup.sh", "label": "normal"}
+{"timestamp": "2026-01-27T01:25:57.188503Z", "host": "host-2", "message": "sshd[539]: Received disconnect from 10.9.220.52: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:26:28.188503Z", "host": "host-2", "message": "sshd[8734]: Received disconnect from 10.10.133.105: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:27:14.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:27:32.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:27:47.188503Z", "host": "host-2", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:28:17.188503Z", "host": "host-2", "message": "sshd[404]: Received disconnect from 10.7.89.217: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:28:51.188503Z", "host": "host-2", "message": "session closed for user mallory", "label": "normal"}
+{"timestamp": "2026-01-27T01:28:56.188503Z", "host": "host-2", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-27T01:29:42.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:29:52.188503Z", "host": "host-2", "message": "sshd[209]: Received disconnect from 10.1.178.103: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:30:44.188503Z", "host": "host-2", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-27T01:31:11.188503Z", "host": "host-2", "message": "nginx: 10.3.223.84 - - \"GET /health HTTP/1.1\" 200 933", "label": "normal"}
+{"timestamp": "2026-01-27T01:31:26.188503Z", "host": "host-2", "message": "session opened for user admin by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:31:55.188503Z", "host": "host-2", "message": "CRON[4814]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T01:32:19.188503Z", "host": "host-2", "message": "Accepted publickey for root from 10.5.109.110 port 2222 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T01:32:54.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:33:39.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:34:28.188503Z", "host": "host-2", "message": "session closed for user admin", "label": "normal"}
+{"timestamp": "2026-01-27T01:35:13.188503Z", "host": "host-2", "message": "CRON[4674]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T01:35:57.188503Z", "host": "host-2", "message": "CRON[6040]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T01:36:55.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:37:13.188503Z", "host": "host-2", "message": "nginx: 10.9.198.162 - - \"GET /health HTTP/1.1\" 200 4708", "label": "normal"}
+{"timestamp": "2026-01-27T01:37:28.188503Z", "host": "host-2", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:37:42.188503Z", "host": "host-2", "message": "CRON[2013]: (root) CMD (apt update)", "label": "normal"}
+{"timestamp": "2026-01-27T01:37:49.188503Z", "host": "host-2", "message": "Accepted publickey for mallory from 10.4.6.57 port 2222 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T01:38:36.188503Z", "host": "host-2", "message": "session opened for user bob by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:39:05.188503Z", "host": "host-2", "message": "nginx: 10.7.255.85 - - \"GET /health HTTP/1.1\" 200 2229", "label": "normal"}
+{"timestamp": "2026-01-27T01:40:04.188503Z", "host": "host-2", "message": "sudo: mallory : TTY=pts/0 ; PWD=/home/mallory ; USER=root ; COMMAND=backup.sh", "label": "normal"}
+{"timestamp": "2026-01-27T01:40:50.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:41:10.188503Z", "host": "host-2", "message": "sshd[8334]: Received disconnect from 10.0.251.229: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:41:43.188503Z", "host": "host-2", "message": "session closed for user mallory", "label": "normal"}
+{"timestamp": "2026-01-27T01:41:49.188503Z", "host": "host-2", "message": "nginx: 10.10.217.49 - - \"GET /wp-admin HTTP/1.1\" 404 4515", "label": "attack"}
+{"timestamp": "2026-01-27T01:42:23.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:43:17.188503Z", "host": "host-2", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-27T01:44:13.188503Z", "host": "host-2", "message": "session opened for user dave by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:44:22.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:44:50.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1109.", "label": "normal"}
+{"timestamp": "2026-01-27T01:45:27.188503Z", "host": "host-2", "message": "Accepted publickey for alice from 10.2.168.110 port 80 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T01:45:34.188503Z", "host": "host-2", "message": "session opened for user bob by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:46:25.188503Z", "host": "host-2", "message": "nginx: 10.0.120.215 - - \"GET /health HTTP/1.1\" 200 3374", "label": "normal"}
+{"timestamp": "2026-01-27T01:46:35.188503Z", "host": "host-2", "message": "nginx: 10.6.110.18 - - \"GET /health HTTP/1.1\" 200 264", "label": "normal"}
+{"timestamp": "2026-01-27T01:47:04.188503Z", "host": "host-2", "message": "session closed for user mallory", "label": "normal"}
+{"timestamp": "2026-01-27T01:47:10.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:48:01.188503Z", "host": "host-2", "message": "session opened for user carol by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:48:18.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1131.", "label": "normal"}
+{"timestamp": "2026-01-27T01:48:41.188503Z", "host": "host-2", "message": "session closed for user admin", "label": "normal"}
+{"timestamp": "2026-01-27T01:49:29.188503Z", "host": "host-2", "message": "CRON[7140]: (root) CMD (python3 job.py)", "label": "normal"}
+{"timestamp": "2026-01-27T01:49:38.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:50:31.188503Z", "host": "host-2", "message": "sshd[8556]: Received disconnect from 10.10.223.87: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:51:15.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1665.", "label": "normal"}
+{"timestamp": "2026-01-27T01:51:29.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1179.", "label": "normal"}
+{"timestamp": "2026-01-27T01:51:47.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:52:24.188503Z", "host": "host-2", "message": "sshd[5298]: Received disconnect from 10.8.50.26: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T01:52:31.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:52:46.188503Z", "host": "host-2", "message": "sudo: bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T01:53:34.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:53:49.188503Z", "host": "host-2", "message": "sudo: root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=backup.sh", "label": "normal"}
+{"timestamp": "2026-01-27T01:54:01.188503Z", "host": "host-2", "message": "Accepted publickey for admin from 10.5.14.167 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T01:54:46.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1077.", "label": "normal"}
+{"timestamp": "2026-01-27T01:55:26.188503Z", "host": "host-2", "message": "session opened for user dave by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:55:47.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T01:56:39.188503Z", "host": "host-2", "message": "sudo: mallory : TTY=pts/0 ; PWD=/home/mallory ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T01:57:08.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:57:22.188503Z", "host": "host-2", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T01:57:55.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T01:58:47.188503Z", "host": "host-2", "message": "sudo: alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T01:59:44.188503Z", "host": "host-2", "message": "sudo: alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=python3 job.py", "label": "normal"}
+{"timestamp": "2026-01-27T02:00:29.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T02:01:16.188503Z", "host": "host-2", "message": "Accepted publickey for root from 10.1.37.192 port 2222 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:02:08.188503Z", "host": "host-2", "message": "session closed for user eve", "label": "normal"}
+{"timestamp": "2026-01-27T02:02:31.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:03:02.188503Z", "host": "host-2", "message": "Accepted publickey for carol from 10.3.176.106 port 8080 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:03:15.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T02:04:01.188503Z", "host": "host-2", "message": "Accepted publickey for eve from 10.8.239.6 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:04:06.188503Z", "host": "host-2", "message": "sudo: alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T02:04:17.188503Z", "host": "host-2", "message": "nginx: 10.3.89.84 - - \"GET /health HTTP/1.1\" 200 1249", "label": "normal"}
+{"timestamp": "2026-01-27T02:04:36.188503Z", "host": "host-2", "message": "sudo: dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T02:05:18.188503Z", "host": "host-2", "message": "sshd[2150]: Received disconnect from 10.7.24.222: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T02:06:02.188503Z", "host": "host-2", "message": "session closed for user mallory", "label": "normal"}
+{"timestamp": "2026-01-27T02:06:15.188503Z", "host": "host-2", "message": "CRON[200]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T02:07:05.188503Z", "host": "host-2", "message": "session opened for user carol by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:07:14.188503Z", "host": "host-2", "message": "sudo: dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T02:07:44.188503Z", "host": "host-2", "message": "Accepted publickey for bob from 10.2.227.89 port 80 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:07:52.188503Z", "host": "host-2", "message": "nginx: 10.6.94.42 - - \"GET /health HTTP/1.1\" 200 1918", "label": "normal"}
+{"timestamp": "2026-01-27T02:08:19.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T02:08:52.188503Z", "host": "host-2", "message": "nginx: 10.8.174.96 - - \"GET /health HTTP/1.1\" 200 4612", "label": "normal"}
+{"timestamp": "2026-01-27T02:09:43.188503Z", "host": "host-2", "message": "session closed for user admin", "label": "normal"}
+{"timestamp": "2026-01-27T02:09:48.188503Z", "host": "host-2", "message": "nginx: 10.10.240.42 - - \"GET /health HTTP/1.1\" 200 814", "label": "normal"}
+{"timestamp": "2026-01-27T02:09:54.188503Z", "host": "host-2", "message": "CRON[4708]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T02:10:09.188503Z", "host": "host-2", "message": "session opened for user mallory by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:10:14.188503Z", "host": "host-2", "message": "CRON[6142]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T02:10:28.188503Z", "host": "host-2", "message": "nginx: 10.3.240.204 - - \"GET /health HTTP/1.1\" 200 1023", "label": "normal"}
+{"timestamp": "2026-01-27T02:11:11.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:12:08.188503Z", "host": "host-2", "message": "nginx: 10.8.145.221 - - \"GET /health HTTP/1.1\" 200 1549", "label": "normal"}
+{"timestamp": "2026-01-27T02:12:32.188503Z", "host": "host-2", "message": "Accepted publickey for mallory from 10.4.146.214 port 80 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:13:23.188503Z", "host": "host-2", "message": "nginx: 10.7.85.27 - - \"GET /health HTTP/1.1\" 200 1687", "label": "normal"}
+{"timestamp": "2026-01-27T02:13:28.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:14:20.188503Z", "host": "host-2", "message": "session opened for user root by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:15:12.188503Z", "host": "host-2", "message": "session closed for user root", "label": "normal"}
+{"timestamp": "2026-01-27T02:15:31.188503Z", "host": "host-2", "message": "sudo: dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T02:15:50.188503Z", "host": "host-2", "message": "session opened for user eve by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:16:16.188503Z", "host": "host-2", "message": "sudo: mallory : TTY=pts/0 ; PWD=/home/mallory ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T02:17:06.188503Z", "host": "host-2", "message": "nginx: 10.8.114.99 - - \"GET /health HTTP/1.1\" 200 2666", "label": "normal"}
+{"timestamp": "2026-01-27T02:17:54.188503Z", "host": "host-2", "message": "nginx: 10.4.152.42 - - \"GET /health HTTP/1.1\" 200 1045", "label": "normal"}
+{"timestamp": "2026-01-27T02:18:15.188503Z", "host": "host-2", "message": "CRON[977]: (root) CMD (python3 job.py)", "label": "normal"}
+{"timestamp": "2026-01-27T02:18:25.188503Z", "host": "host-2", "message": "Accepted publickey for root from 10.5.127.196 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:18:40.188503Z", "host": "host-2", "message": "CRON[3254]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T02:19:38.188503Z", "host": "host-2", "message": "session closed for user bob", "label": "normal"}
+{"timestamp": "2026-01-27T02:20:30.188503Z", "host": "host-2", "message": "CRON[5448]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T02:20:59.188503Z", "host": "host-2", "message": "CRON[7939]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T02:21:28.188503Z", "host": "host-2", "message": "nginx: 10.9.219.124 - - \"GET /health HTTP/1.1\" 200 4057", "label": "normal"}
+{"timestamp": "2026-01-27T02:22:03.188503Z", "host": "host-2", "message": "nginx: 10.10.179.98 - - \"GET /health HTTP/1.1\" 200 4205", "label": "normal"}
+{"timestamp": "2026-01-27T02:22:52.188503Z", "host": "host-2", "message": "Failed password for invalid user dave from 10.4.5.106 port 22 ssh2", "label": "attack"}
+{"timestamp": "2026-01-27T02:23:24.188503Z", "host": "host-2", "message": "CRON[1099]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T02:24:05.188503Z", "host": "host-2", "message": "CRON[962]: (root) CMD (apt update)", "label": "normal"}
+{"timestamp": "2026-01-27T02:24:35.188503Z", "host": "host-2", "message": "session opened for user mallory by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:25:16.188503Z", "host": "host-2", "message": "session closed for user carol", "label": "normal"}
+{"timestamp": "2026-01-27T02:25:23.188503Z", "host": "host-2", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:26:07.188503Z", "host": "host-2", "message": "sshd[6783]: Received disconnect from 10.8.43.205: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T02:26:21.188503Z", "host": "host-2", "message": "Accepted publickey for admin from 10.5.206.206 port 8080 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:26:28.188503Z", "host": "host-2", "message": "Accepted publickey for eve from 10.6.109.82 port 80 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:27:17.188503Z", "host": "host-2", "message": "Accepted publickey for bob from 10.7.75.90 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:27:26.188503Z", "host": "host-2", "message": "sshd[2016]: Received disconnect from 10.6.225.190: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T02:27:43.188503Z", "host": "host-2", "message": "nginx: 10.2.33.176 - - \"GET /health HTTP/1.1\" 200 1562", "label": "normal"}
+{"timestamp": "2026-01-27T02:28:30.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:28:41.188503Z", "host": "host-2", "message": "CRON[3428]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T02:28:53.188503Z", "host": "host-2", "message": "session opened for user bob by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:29:50.188503Z", "host": "host-2", "message": "sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T02:30:25.188503Z", "host": "host-2", "message": "session opened for user admin by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:31:20.188503Z", "host": "host-2", "message": "CRON[9521]: (root) CMD (apt update)", "label": "normal"}
+{"timestamp": "2026-01-27T02:31:43.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:32:04.188503Z", "host": "host-2", "message": "sudo: carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T02:32:27.188503Z", "host": "host-2", "message": "sshd[5890]: Received disconnect from 10.1.226.238: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T02:32:52.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T02:33:29.188503Z", "host": "host-2", "message": "sudo: root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=backup.sh", "label": "normal"}
+{"timestamp": "2026-01-27T02:34:13.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:34:19.188503Z", "host": "host-2", "message": "session opened for user root by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:34:46.188503Z", "host": "host-2", "message": "Accepted publickey for admin from 10.4.242.20 port 80 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:35:25.188503Z", "host": "host-2", "message": "session opened for user dave by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:36:06.188503Z", "host": "host-2", "message": "session closed for user bob", "label": "normal"}
+{"timestamp": "2026-01-27T02:36:38.188503Z", "host": "host-2", "message": "sshd[5026]: error: maximum authentication attempts exceeded for invalid user mallory from 10.10.122.237 port 2222 ssh2", "label": "attack"}
+{"timestamp": "2026-01-27T02:37:01.188503Z", "host": "host-2", "message": "Accepted publickey for bob from 10.8.79.67 port 2222 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:37:06.188503Z", "host": "host-2", "message": "session opened for user root by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:37:42.188503Z", "host": "host-2", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-27T02:38:18.188503Z", "host": "host-2", "message": "nginx: 10.1.92.171 - - \"GET /health HTTP/1.1\" 200 3778", "label": "normal"}
+{"timestamp": "2026-01-27T02:38:39.188503Z", "host": "host-2", "message": "session closed for user carol", "label": "normal"}
+{"timestamp": "2026-01-27T02:39:02.188503Z", "host": "host-2", "message": "CRON[8733]: (root) CMD (apt update)", "label": "normal"}
+{"timestamp": "2026-01-27T02:39:38.188503Z", "host": "host-2", "message": "session opened for user root by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:40:14.188503Z", "host": "host-2", "message": "nginx: 10.8.26.158 - - \"GET /health HTTP/1.1\" 200 2739", "label": "normal"}
+{"timestamp": "2026-01-27T02:41:09.188503Z", "host": "host-2", "message": "sshd[6602]: Received disconnect from 10.10.32.28: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T02:41:36.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:42:28.188503Z", "host": "host-2", "message": "Accepted publickey for carol from 10.1.169.237 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:42:56.188503Z", "host": "host-2", "message": "sudo: mallory : TTY=pts/0 ; PWD=/home/mallory ; USER=root ; COMMAND=apt upgrade -y", "label": "normal"}
+{"timestamp": "2026-01-27T02:43:28.188503Z", "host": "host-2", "message": "nginx: 10.9.252.191 - - \"GET /health HTTP/1.1\" 200 1950", "label": "normal"}
+{"timestamp": "2026-01-27T02:43:43.188503Z", "host": "host-2", "message": "CRON[6822]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-27T02:44:17.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T02:45:10.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T02:45:56.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T02:46:21.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1038.", "label": "normal"}
+{"timestamp": "2026-01-27T02:47:08.188503Z", "host": "host-2", "message": "sshd[719]: Received disconnect from 10.1.0.140: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T02:47:23.188503Z", "host": "host-2", "message": "sudo: alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T02:48:05.188503Z", "host": "host-2", "message": "sshd[638]: Received disconnect from 10.10.213.237: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T02:48:39.188503Z", "host": "host-2", "message": "CRON[3648]: (root) CMD (python3 job.py)", "label": "normal"}
+{"timestamp": "2026-01-27T02:49:16.188503Z", "host": "host-2", "message": "sudo: carol : TTY=pts/0 ; PWD=/home/carol ; USER=root ; COMMAND=apt upgrade -y", "label": "normal"}
+{"timestamp": "2026-01-27T02:50:09.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T02:50:23.188503Z", "host": "host-2", "message": "CRON[1395]: (root) CMD (apt update)", "label": "normal"}
+{"timestamp": "2026-01-27T02:51:14.188503Z", "host": "host-2", "message": "nginx: 10.0.56.50 - - \"GET /health HTTP/1.1\" 200 4120", "label": "normal"}
+{"timestamp": "2026-01-27T02:51:41.188503Z", "host": "host-2", "message": "sshd[4303]: Received disconnect from 10.8.183.239: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T02:51:58.188503Z", "host": "host-2", "message": "session opened for user admin by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:52:13.188503Z", "host": "host-2", "message": "session opened for user bob by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:52:30.188503Z", "host": "host-2", "message": "session closed for user mallory", "label": "normal"}
+{"timestamp": "2026-01-27T02:53:25.188503Z", "host": "host-2", "message": "sudo: root : TTY=pts/0 ; PWD=/home/root ; USER=root ; COMMAND=backup.sh", "label": "normal"}
+{"timestamp": "2026-01-27T02:53:57.188503Z", "host": "host-2", "message": "session opened for user root by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T02:54:42.188503Z", "host": "host-2", "message": "sudo: eve : TTY=pts/0 ; PWD=/home/eve ; USER=root ; COMMAND=apt update", "label": "normal"}
+{"timestamp": "2026-01-27T02:55:00.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1503.", "label": "normal"}
+{"timestamp": "2026-01-27T02:55:07.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:55:56.188503Z", "host": "host-2", "message": "sudo: mallory : TTY=pts/0 ; PWD=/home/mallory ; USER=root ; COMMAND=apt upgrade -y", "label": "normal"}
+{"timestamp": "2026-01-27T02:56:30.188503Z", "host": "host-2", "message": "sudo: dave : TTY=pts/0 ; PWD=/home/dave ; USER=root ; COMMAND=python3 job.py", "label": "normal"}
+{"timestamp": "2026-01-27T02:57:13.188503Z", "host": "host-2", "message": "Accepted publickey for alice from 10.5.2.13 port 8080 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T02:58:05.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:58:54.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T02:59:53.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T03:00:52.188503Z", "host": "host-2", "message": "session closed for user carol", "label": "normal"}
+{"timestamp": "2026-01-27T03:01:38.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T03:02:03.188503Z", "host": "host-2", "message": "session opened for user dave by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T03:02:34.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T03:03:24.188503Z", "host": "host-2", "message": "session closed for user root", "label": "normal"}
+{"timestamp": "2026-01-27T03:03:45.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1503.", "label": "normal"}
+{"timestamp": "2026-01-27T03:04:19.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T03:04:57.188503Z", "host": "host-2", "message": "session closed for user admin", "label": "normal"}
+{"timestamp": "2026-01-27T03:05:43.188503Z", "host": "host-2", "message": "Accepted publickey for bob from 10.6.67.121 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T03:06:12.188503Z", "host": "host-2", "message": "session opened for user mallory by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T03:06:19.188503Z", "host": "host-2", "message": "CRON[5998]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T03:06:34.188503Z", "host": "host-2", "message": "CRON[243]: (root) CMD (python3 job.py)", "label": "normal"}
+{"timestamp": "2026-01-27T03:07:12.188503Z", "host": "host-2", "message": "kernel: eth0: link up, 1000 Mbps, full-duplex", "label": "normal"}
+{"timestamp": "2026-01-27T03:07:46.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1633.", "label": "normal"}
+{"timestamp": "2026-01-27T03:08:23.188503Z", "host": "host-2", "message": "sshd[6344]: Received disconnect from 10.7.121.250: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T03:09:01.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1399.", "label": "normal"}
+{"timestamp": "2026-01-27T03:09:19.188503Z", "host": "host-2", "message": "session closed for user admin", "label": "normal"}
+{"timestamp": "2026-01-27T03:09:49.188503Z", "host": "host-2", "message": "session opened for user eve by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-27T03:10:40.188503Z", "host": "host-2", "message": "sshd[257]: Received disconnect from 10.9.208.91: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T03:11:25.188503Z", "host": "host-2", "message": "sudo: alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=backup.sh", "label": "normal"}
+{"timestamp": "2026-01-27T03:11:54.188503Z", "host": "host-2", "message": "Accepted publickey for bob from 10.2.24.82 port 443 ssh2", "label": "normal"}
+{"timestamp": "2026-01-27T03:12:03.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T03:12:48.188503Z", "host": "host-2", "message": "sshd[4090]: Received disconnect from 10.3.244.57: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T03:13:30.188503Z", "host": "host-2", "message": "CRON[8746]: (root) CMD (tar -czf /var/tmp/a.tgz /var/log)", "label": "normal"}
+{"timestamp": "2026-01-27T03:13:54.188503Z", "host": "host-2", "message": "nginx: 10.4.25.249 - - \"GET /health HTTP/1.1\" 200 4741", "label": "normal"}
+{"timestamp": "2026-01-27T03:14:13.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T03:14:47.188503Z", "host": "host-2", "message": "session closed for user bob", "label": "normal"}
+{"timestamp": "2026-01-27T03:15:41.188503Z", "host": "host-2", "message": "CRON[6667]: (root) CMD (python3 job.py)", "label": "normal"}
+{"timestamp": "2026-01-27T03:16:16.188503Z", "host": "host-2", "message": "CRON[8117]: (root) CMD (python3 job.py)", "label": "normal"}
+{"timestamp": "2026-01-27T03:17:13.188503Z", "host": "host-2", "message": "sshd[7209]: Received disconnect from 10.2.158.54: 11: disconnected by user", "label": "normal"}
+{"timestamp": "2026-01-27T03:18:00.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}
+{"timestamp": "2026-01-27T03:18:34.188503Z", "host": "host-2", "message": "nginx: 10.3.48.102 - - \"GET /health HTTP/1.1\" 200 3323", "label": "normal"}
+{"timestamp": "2026-01-27T03:19:20.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1640.", "label": "normal"}
+{"timestamp": "2026-01-27T03:19:47.188503Z", "host": "host-2", "message": "CRON[9424]: (root) CMD (apt upgrade -y)", "label": "normal"}
+{"timestamp": "2026-01-27T03:20:09.188503Z", "host": "host-2", "message": "sudo: mallory : TTY=pts/0 ; PWD=/home/mallory ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T03:20:41.188503Z", "host": "host-2", "message": "systemd: Stopped User Manager for UID 1381.", "label": "normal"}
+{"timestamp": "2026-01-27T03:20:46.188503Z", "host": "host-2", "message": "sudo: bob : TTY=pts/0 ; PWD=/home/bob ; USER=root ; COMMAND=tar -czf /var/tmp/a.tgz /var/log", "label": "normal"}
+{"timestamp": "2026-01-27T03:21:13.188503Z", "host": "host-2", "message": "sudo: alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=backup.sh", "label": "normal"}
+{"timestamp": "2026-01-27T03:21:38.188503Z", "host": "host-2", "message": "systemd: Started Daily apt download activities.", "label": "normal"}

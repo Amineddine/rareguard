@@ -1,0 +1,50 @@
+{"timestamp": "2026-01-01T00:00:26Z", "host": "host-1", "message": "Accepted publickey for alice from 10.1.2.3 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-01T00:01:04Z", "host": "host-1", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:01:27Z", "host": "host-2", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:01:38Z", "host": "host-1", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:02:26Z", "host": "host-2", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:02:53Z", "host": "host-1", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:03:23Z", "host": "host-1", "message": "Accepted publickey for alice from 10.1.2.3 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-01T00:03:34Z", "host": "host-1", "message": "Accepted publickey for alice from 10.1.2.3 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-01T00:03:57Z", "host": "host-1", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:04:40Z", "host": "host-2", "message": "Accepted publickey for alice from 10.1.2.3 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-01T00:05:21Z", "host": "host-1", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:05:45Z", "host": "host-1", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-01T00:06:13Z", "host": "host-1", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:06:58Z", "host": "host-1", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:07:48Z", "host": "host-1", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-01T00:08:19Z", "host": "host-2", "message": "Accepted publickey for alice from 10.1.2.3 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-01T00:08:48Z", "host": "host-2", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-01T00:09:30Z", "host": "host-2", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:10:10Z", "host": "host-2", "message": "Accepted publickey for alice from 10.1.2.3 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-01T00:10:46Z", "host": "host-1", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:11:19Z", "host": "host-1", "message": "Failed password for invalid user admin from 10.9.9.9 port 22 ssh2", "label": "attack"}
+{"timestamp": "2026-01-01T00:11:57Z", "host": "host-2", "message": "Accepted publickey for alice from 10.1.2.3 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-01T00:12:40Z", "host": "host-1", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-01T00:13:21Z", "host": "host-2", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-01T00:13:33Z", "host": "host-1", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:13:53Z", "host": "host-2", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:14:03Z", "host": "host-1", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-01T00:14:38Z", "host": "host-1", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-01T00:15:17Z", "host": "host-2", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-01T00:15:51Z", "host": "host-2", "message": "Accepted publickey for alice from 10.1.2.3 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-01T00:16:28Z", "host": "host-1", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-01T00:17:01Z", "host": "host-1", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:17:42Z", "host": "host-1", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:18:14Z", "host": "host-2", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:18:53Z", "host": "host-1", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-01T00:19:43Z", "host": "host-1", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-01T00:19:58Z", "host": "host-1", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-01T00:20:12Z", "host": "host-2", "message": "Accepted publickey for alice from 10.1.2.3 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-01T00:20:50Z", "host": "host-1", "message": "Accepted publickey for alice from 10.1.2.3 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-01T00:21:15Z", "host": "host-1", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-01T00:21:32Z", "host": "host-2", "message": "Failed password for invalid user admin from 10.9.9.9 port 22 ssh2", "label": "attack"}
+{"timestamp": "2026-01-01T00:22:00Z", "host": "host-1", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-01T00:22:20Z", "host": "host-1", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-01T00:22:47Z", "host": "host-2", "message": "session opened for user alice by (uid=0)", "label": "normal"}
+{"timestamp": "2026-01-01T00:23:17Z", "host": "host-2", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:23:34Z", "host": "host-2", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:24:08Z", "host": "host-1", "message": "session closed for user alice", "label": "normal"}
+{"timestamp": "2026-01-01T00:24:30Z", "host": "host-2", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
+{"timestamp": "2026-01-01T00:24:56Z", "host": "host-2", "message": "Accepted publickey for alice from 10.1.2.3 port 22 ssh2", "label": "normal"}
+{"timestamp": "2026-01-01T00:25:07Z", "host": "host-1", "message": "CRON[1234]: (root) CMD (backup.sh)", "label": "normal"}
